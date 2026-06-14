@@ -59,6 +59,20 @@ The main goal of this project is to
 
 ---
 
+## 🎨 Virtual Exhibition Preview
+
+### Outer Layout
+![Outer Layout](screenshots/OuterLayout.png)
+
+### Dashboard Interface
+![Dashboard](screenshots/Dashboard.png)
+
+### Color Customization
+![Color Change](screenshots/colorchange.png)
+
+### Indoor View
+![Indoor View](screenshots/indoor.png)
+
 ## 🚀 Future Improvements
 
 - Multiplayer support for collaborative exhibitions  
