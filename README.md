@@ -1,66 +1,82 @@
-# Virtual Exhibition Center Space
+# 🎨 Virtual Exhibition Center Space
 
-## Overview
-
-Virtual Exhibition Center Space is a 3D interactive virtual art gallery developed using Unity, Blender, and C#.  
-It provides users with an immersive environment where they can explore a virtual exhibition hall, place artworks, and customize both objects and the environment in real time.
-Unlike traditional static galleries, this system focuses on **interactive and personalized art experiences**, allowing users to actively design and control the exhibition space.
-The goal of this project is to remove the limitations of physical exhibitions such as location, space, and accessibility, and offer a fully digital and engaging alternative.
+A 3D interactive virtual art exhibition built using **Unity, Blender, and C#**.  
+This project allows users to explore a virtual gallery, place artworks, and customize the environment in real time.
 
 ---
 
-## Features
+## 📌 Project Overview
 
-### Interactive 3D Environment
-- Explore a virtual exhibition hall with a full 360° view
-- Smooth navigation using keyboard and mouse controls
-- Real-time movement inside the exhibition space
+The **Virtual Exhibition Center Space** is designed to provide an immersive way to experience digital art.  
+Instead of a static gallery, users can actively interact with the environment.
 
-### Artwork Management
-- View available artworks in a dashboard interface
-- Select and place artworks inside the exhibition hall
-- Drag and drop objects anywhere in the scene
-
-### Object Customization
-- Change artwork colors using a color palette
-- Resize objects dynamically
-- Rotate and flip objects
-- Delete objects when required
-
-### Environment Customization
-- Change background color of the exhibition hall
-- Personalize environment appearance based on user preference
+Users can
+- Walk through a 3D exhibition hall (360° view)
+- View and select artworks from a dashboard
+- Place artworks in the scene using drag-and-drop
+- Resize, rotate, flip, and delete objects
+- Change object colors using a color palette
+- Customize the background of the exhibition hall
 
 ---
 
-## Technologies Used
+## 🎯 Objective
 
-| Technology | Purpose |
-|------------|--------|
-| Unity | Game engine and 3D environment development |
-| Blender | 3D modeling and asset creation |
-| C# | Game logic and interaction scripting |
-| Unity UI | Dashboard and user interface design |
+The main goal of this project is to
+- Make art exhibitions more interactive and accessible
+- Remove physical limitations of traditional galleries
+- Provide a flexible and engaging digital art experience
 
 ---
 
-## Project Structure
+## 🛠️ Tools & Technologies
 
-```text id="proj_structure"
-Assets/
-├── Scripts/
-├── Prefabs/
-├── Materials/
-├── Models/
-├── Scenes/
-└── UI/
+- **Unity** – Game engine for building the 3D environment  
+- **Blender** – Used for creating 3D models and assets  
+- **C#** – Used for scripting interactions and game logic  
 
-Packages/
-ProjectSettings/
-```
+---
 
-## Team Members
+## 🎮 Features
 
-- **[Rachita Laad](https://github.com/RACHITALAAD)** – B.Tech CSE, IIIT Vadodara  
-- **[Rasika Kale](https://github.com/rasika2114)** – B.Tech CSE, IIIT Vadodara  
-- **[Ayush Ranjan](https://github.com/AyushRanjan13)** – B.Tech CSE, IIIT Vadodara   
+- 3D immersive exhibition hall
+- Smooth 360-degree navigation
+- Dashboard-based artwork selection
+- Drag-and-drop object placement
+- Real-time object transformation such as resize, rotate, and flip
+- Color customization for objects and background
+- Object deletion and scene management
+
+---
+
+## 🧠 How It Works
+
+1. 3D environment is designed in Blender  
+2. Models are imported into Unity  
+3. C# scripts handle movement and interactions  
+4. UI dashboard is used to select and place artworks  
+5. Users customize and interact with objects in real time  
+
+---
+
+## 🚀 Future Improvements
+
+- Multiplayer support for collaborative exhibitions  
+- VR integration  
+- AI-based artwork recommendations  
+- Real-time chat and user interaction  
+- More advanced lighting and environment effects  
+
+---
+
+## 👨‍💻 Team Members
+
+- **[Rachita Laad](https://github.com/rachitalaad)** – B.Tech CSE, IIIT Vadodara  
+- **[Rasika Kale](https://github.com/rasika123)** – B.Tech CSE, IIIT Vadodara  
+- **[Ayush Ranjan](https://github.com/ayush-ranjan)** – B.Tech CSE, IIIT Vadodara  
+
+---
+
+## 📄 License
+
+This project is created for academic purposes at IIIT Vadodara.
