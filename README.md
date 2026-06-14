@@ -67,6 +67,6 @@ ProjectSettings/
 
 ## Team Members
 
-- **Rachita Laad** – B.Tech CSE, IIIT Vadodara  
-- **Rasika Kale** – B.Tech CSE, IIIT Vadodara  
-- **Ayush Ranjan** – B.Tech CSE, IIIT Vadodara  
+- **[Rachita Laad](https://github.com/RACHITALAAD)** – B.Tech CSE, IIIT Vadodara  
+- **[Rasika Kale](https://github.com/rasika2114)** – B.Tech CSE, IIIT Vadodara  
+- **[Ayush Ranjan](https://github.com/AyushRanjan13)** – B.Tech CSE, IIIT Vadodara   
