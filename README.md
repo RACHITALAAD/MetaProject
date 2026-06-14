@@ -63,3 +63,10 @@ Assets/
 
 Packages/
 ProjectSettings/
+```
+
+## Team Members
+
+- **Rachita Laad** – B.Tech CSE, IIIT Vadodara  
+- **Rasika Kale** – B.Tech CSE, IIIT Vadodara  
+- **Ayush Ranjan** – B.Tech CSE, IIIT Vadodara  
