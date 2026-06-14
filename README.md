@@ -76,7 +76,3 @@ The main goal of this project is to
 - **[Ayush Ranjan](https://github.com/ayush-ranjan)** – B.Tech CSE, IIIT Vadodara  
 
 ---
-
-## 📄 License
-
-This project is created for academic purposes at IIIT Vadodara.
