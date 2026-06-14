@@ -3,11 +3,8 @@
 ## Overview
 
 Virtual Exhibition Center Space is a 3D interactive virtual art gallery developed using Unity, Blender, and C#.  
-
 It provides users with an immersive environment where they can explore a virtual exhibition hall, place artworks, and customize both objects and the environment in real time.
-
 Unlike traditional static galleries, this system focuses on **interactive and personalized art experiences**, allowing users to actively design and control the exhibition space.
-
 The goal of this project is to remove the limitations of physical exhibitions such as location, space, and accessibility, and offer a fully digital and engaging alternative.
 
 ---
