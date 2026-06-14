@@ -86,7 +86,7 @@ The main goal of this project is to
 ## 👨‍💻 Team Members
 
 - **[Rachita Laad](https://github.com/rachitalaad)** – B.Tech CSE, IIIT Vadodara  
-- **[Rasika Kale](https://github.com/rasika123)** – B.Tech CSE, IIIT Vadodara  
-- **[Ayush Ranjan](https://github.com/ayush-ranjan)** – B.Tech CSE, IIIT Vadodara  
+- **[Rasika Kale](https://github.com/rasika2114)** – B.Tech CSE, IIIT Vadodara  
+- **[Ayush Ranjan](https://github.com/AyushRanjan13)** – B.Tech CSE, IIIT Vadodara  
 
 ---
